@@ -87,3 +87,9 @@ Explanation:
 ![Screenshot from 2023-06-14 19-32-37](https://github.com/Soumya2754/VSD-TCL/assets/83526493/023bdfed-3e08-47b7-b3c2-194f731123e6)
 
 ## Day_2
+
+Notes:
+~~~ 
+puts "prints the text on terminal"
+file isdirectory <directory_path>       //returns 1 if directory exists 
+~~~
